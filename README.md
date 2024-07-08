@@ -12,4 +12,4 @@
 - `git remote -v` remote check
 - `git remote -v` remote check
 - `git remote -v` remote check
-- `unneccssary`
+- `unneccssary delete`
